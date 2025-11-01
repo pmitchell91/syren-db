@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "syren-db",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9521d6b4-b4ef-4f00-b020-6d98a1ad5fee",
+      "database_name": "syren-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
